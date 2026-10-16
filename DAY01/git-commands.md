@@ -1,11 +1,3 @@
-## git-commands-guide.md
-
-Markdown · Git commands · Interview preparation
-
- Copy guide
-
-The copy button copies the complete guide in Markdown format. You can also use the sections below to review it.
-
 # Git Commands — Complete Guide
 
 ## 1. `git init`
